@@ -8,4 +8,5 @@
 - 3. Logistic Regression
 - 4. Decision Tree
 
-### LendingClub 부도를 예측한 모델을 개발하였을 뿐 아니라 목적함수를 작성하여 최적의 Threshold를 도출하였습니다. 
+## Project
+- LendingClub 부도를 예측한 모델을 개발하였을 뿐 아니라 목적함수를 작성하여 최적의 Threshold를 도출하였습니다. 
